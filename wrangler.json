@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cfa69ef9-2ae8-4b38-b89a-08c55081548e",
+			"database_name": "btc"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
